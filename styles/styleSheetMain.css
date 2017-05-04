@@ -1,0 +1,89 @@
+ .menu  {
+	width: 100%;
+	color: black;
+	font-size:12pt;
+	text-align:center;
+    font-family:arial,sans-serif;
+	font-weight:bold 
+	}
+.pageHeading	{ 
+	width: 100%;
+	border-style: solid;
+	border-color: #cce5ff;
+	background-color: #ccf2ff;
+	}
+.pageBreak {
+	width: 100%;
+	
+}
+.image_siteImageLogo {
+	max-width: 300px;
+	max-height: 270px;
+	border: solid;
+	border-color: #1e441f;
+	padding: auto;
+	margin: auto;
+}
+nav {
+	max-width: 200px;
+}
+#indexWrapper {
+	width: 100%; 
+	background-color: #cce5ff;
+	margin: auto;
+	padding: auto;
+	border-style: solid;
+	border-color: #ccf2ff;
+}
+#rightCol {
+	margin-left: 25px;
+	
+}
+.servicesOverview ul {
+	list-style: none;
+	background-color: white;
+	text-align: left;
+}
+ .dropbtn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: solid;
+	border-color: #1e441f; 
+    cursor: pointer;
+	max-width: 200px;
+	min-width: 135px;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+	max-width: 200px;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-content a:hover {background-color: #f1f1f1}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.dropdown:hover .dropbtn {
+    background-color: #3e8e41;
+}
