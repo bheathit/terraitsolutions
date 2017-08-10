@@ -1,6 +1,8 @@
+
 HTML {
 	font-family: Arial;
 	background-color: #ccffff;
+	background-height: auto;
 }
 /* About card */
 .card {
