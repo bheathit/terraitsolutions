@@ -2,8 +2,10 @@ HTML {
 	font-family: Arial;
 	background-color: #ccffff;
 }
-body {
-	height: 100%;
+#pageWrapper {
+	
+	min-height: 800px;
+	min-width: 400px;
 }
 /* About card */
 .card {
