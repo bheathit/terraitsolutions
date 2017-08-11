@@ -1,11 +1,10 @@
-HTML {
+html {
 	font-family: Arial;
 	background-color: #ccffff;
 }
 #pageWrapper {
 	
-	min-height: 800px;
-	min-width: 400px;
+	
 }
 /* About card */
 .card {
@@ -201,7 +200,7 @@ nav {
 @media screen and (min-width: 800px)
 {
 
-	HTML {
+	html {
 	
 	background: url(../images/StormySky_1_720px.png) no-repeat center fixed;
 	background-size: cover;
