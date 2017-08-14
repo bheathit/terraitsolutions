@@ -161,6 +161,16 @@ ul.breadcrumb li a {color: green;}
 	width: 100%;
 	
 }
+.image_navImageLogo {
+	max-width: 75px;
+	max-height: 67px;
+	border: solid;
+	border-color: #1e441f;
+	border-radius: 75%;
+	padding: auto;
+	margin: auto;
+	padding: 5px 5px 5px 5px;
+}
 .image_siteImageLogo {
 	max-width: 75px;
 	max-height: 67px;
